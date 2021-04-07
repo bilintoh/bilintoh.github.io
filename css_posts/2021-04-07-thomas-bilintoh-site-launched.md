@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Thomas Bilintoh, GIS and Remote Sesning Scientist"
 date: 2021-04-07
 ---
 
