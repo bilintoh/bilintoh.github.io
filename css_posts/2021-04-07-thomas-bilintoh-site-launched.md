@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thomas Bilintoh, GIS and Remote Sesning Scientist"
+title: "GIS"
 date: 2021-04-07
 ---
 
