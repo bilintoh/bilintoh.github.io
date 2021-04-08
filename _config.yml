@@ -1,2 +1,3 @@
 name: Thomas Bilintoh, GIS and Remote Sensing Scientist
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
