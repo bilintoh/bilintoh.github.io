@@ -1,0 +1,155 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.01757813,-13.02596593 ]
+    },
+    "properties": {
+    "Country":"Angola",
+    "Element":"Yield",
+    "Item":"Cocoa",
+    "Unit":"hg/ha",
+    "Yield_2018":1612,
+    "Yield_2019":1645
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.37060547,4.346411275 ]
+    },
+    "properties": {
+    "Country":"Cameroon",
+    "Element":"Yield",
+    "Item":"Cocoa",
+    "Unit":"hg/ha",
+    "Yield_2018":4132,
+    "Yield_2019":4162
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.69824219,6.839169626 ]
+    },
+    "properties": {
+    "Country":"Central African Republic",
+    "Element":"Yield",
+    "Item":"Cocoa",
+    "Unit":"hg/ha",
+    "Yield_2018":507,
+    "Yield_2019":506
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.34655762,-11.76519249 ]
+    },
+    "properties": {
+    "Country":"Comoros",
+    "Element":"Yield",
+    "Item":"Cocoa",
+    "Unit":"hg/ha",
+    "Yield_2018":3356,
+    "Yield_2019":3377
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.62255859,-0.571279597 ]
+    },
+    "properties": {
+    "Country":"Congo",
+    "Element":"Yield",
+    "Item":"Cocoa",
+    "Unit":"hg/ha",
+    "Yield_2018":2811,
+    "Yield_2019":2785
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.295410156,7.406047717 ]
+    },
+    "properties": {
+    "Country":"C�te d'Ivoire",
+    "Element":"Yield",
+    "Item":"Cocoa ",
+    "Unit":"hg/ha",
+    "Yield_2018":4677,
+    "Yield_2019":4564
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.06054687,-3.337953961 ]
+    },
+    "properties": {
+    "Country":"Democratic Republic of the Congo",
+    "Element":"Yield",
+    "Item":"Cocoa ",
+    "Unit":"hg/ha",
+    "Yield_2018":3994,
+    "Yield_2019":4129
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.59082031,1.570848094 ]
+    },
+    "properties": {
+    "Country":"Equatorial Guinea",
+    "Element":"Yield",
+    "Item":"Cocoa ",
+    "Unit":"hg/ha",
+    "Yield_2018":1007,
+    "Yield_2019":1007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.88720703,-0.834931386 ]
+    },
+    "properties": {
+    "Country":"Gabon",
+    "Element":"Yield",
+    "Item":"Cocoa ",
+    "Unit":"hg/ha",
+    "Yield_2018":629,
+    "Yield_2019":624
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.966796875,8.189742344 ]
+    },
+    "properties": {
+    "Country":"Ghana",
+    "Element":"Yield",
+    "Item":"Cocoa ",
+    "Unit":"hg/ha",
+    "Yield_2018":5354,
+    "Yield_2019":5490
+    }
+  }
+]
+}
