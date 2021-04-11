@@ -4,7 +4,7 @@ title: "Have you seen some of my recent works?."
 date: 2021-04-07
 ---
 
-Thomas Mumuni Bilintoh is a Ph.D. student at the Geography Department at Clark University. Bilintoh creates quantitative methods that contribute to Geographic Information Science (GIS) and Remote Sensing. He is currently developing methods to quantify the dynamics of land categories.
+
 <h1>Some of my works</h1>
 				<li>See below my cool map concerning cocoa yiled in Africa.</li>
 				<iframe width="100%" height="800px" src="https://clarku.maps.arcgis.com/apps/MapJournal/index.html?appid=1f31065e0c5e4371bf4ae7adf85516b3" frameborder="0" scrolling="no"></iframe>
