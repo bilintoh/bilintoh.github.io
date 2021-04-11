@@ -17,5 +17,4 @@ Thomas Mumuni Bilintoh is a Ph.D. student at the Geography Department at Clark U
 
 
 
-				<li>Have you heard about the reforestation in the Rio Deco water basin? Check out the google map below.</li>
-				<iframe src="https://www.google.com/maps/d/embed?mid=1W-TX4xUIimNjA_brpPhNcSF3fyvmjbEc" width="640" height="480"></iframe>
+				
