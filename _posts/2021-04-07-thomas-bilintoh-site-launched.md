@@ -3,8 +3,12 @@ layout: post
 title: "I presented my research at AAG 2021?."
 date: 2021-04-09
 ---
-I presented my research titled: A Generalized Method to Quantify the Dynamics of a Specific Category to Compare Sites.
-<img src="https://github.com/bilintoh/bilintoh.github.io/blob/main/compressed_photograph.png" width="900" height="900"> 
+My AAG session concerning **GIS Methods to Analysze Land Change** was a success!
+Thanks to everyone who participate either as an observer or presenter. 
+Access the vidoe recording and inofmration concerning my session here:
+<a href="https://aag-annualmeeting.secure-platform.com/a/solicitations/13/sessiongallery/1109">Clickto access the vidoe recording and inofmration concerning my session.</a>
+
+
 
 				
 		
