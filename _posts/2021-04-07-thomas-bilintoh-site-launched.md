@@ -4,7 +4,7 @@ title: "I presented my research at AAG 2021?."
 date: 2021-04-09
 ---
 
-<p style="color:green"><h1>"Bilintoh'AAG 2021 Session</h1></p>
+<h1><p style="color:green">"Bilintoh'AAG 2021 Session</p></h1>
 My AAG session concerning **GIS Methods to Analysze Land Change** was a success!
 Thanks to everyone who participate either as an observer or presenter. 
 Access the vidoe recording and inofmration concerning my session here:
